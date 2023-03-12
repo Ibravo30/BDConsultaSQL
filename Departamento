@@ -1,0 +1,3 @@
+SELECT numero, calle
+FROM DIRECCION
+WHERE ciudad = ‘Sevilla’
